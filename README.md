@@ -8,7 +8,7 @@ Truong Ngoc Linh
 - Numpy
 - Matplotlib
 - Seaborne
-- 
+
 ## Highlight projects
 - Promotional Demand Forecasting
 - RFM Model
